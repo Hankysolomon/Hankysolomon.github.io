@@ -46,9 +46,9 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: red;
     font-size: 110%;
-    background:gray;
+    background:blue;
     padding: 4px;
     border:1px solid white;
 }
